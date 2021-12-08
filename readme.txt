@@ -40,6 +40,10 @@ It will be added in the future release.
 
 == Screenshots ==
 
+![editor](https://user-images.githubusercontent.com/22427070/145196154-b7409c96-0fca-4179-95f9-00bc21a766b8.png)
+
+![frontend](https://user-images.githubusercontent.com/22427070/145196240-bc4b2568-baf3-470e-b0a4-24e354f41ce4.png)
+
 
 
 == Changelog ==
