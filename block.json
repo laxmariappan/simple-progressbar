@@ -1,0 +1,17 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 2,
+	"name": "create-block/simple-progressbar",
+	"version": "0.1.0",
+	"title": "Simple Progressbar",
+	"category": "widgets",
+	"icon": "hourglass",
+	"description": "Shows a progressbar with color and range controls.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "simple-progressbar",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
