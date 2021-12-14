@@ -1,4 +1,5 @@
 === Simple Progressbar ===
+
 Contributors:      Lax Mariappan
 Tags:              block, progressbar
 Tested up to:      5.8.0
@@ -50,5 +51,4 @@ It will be added in the future release.
 
 = 0.1.0 =
 * Initial release
-
 
